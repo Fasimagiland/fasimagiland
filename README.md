@@ -11,7 +11,7 @@ Meet the team that's making Fasimagiland possible - a group of dedicated and ski
 | Bagas Dwi Santosa | M228D4KY2644 |  Machine Learning  |            [LinkedIn](https://www.linkedin.com/in/bagasdwisantosa/) |
 |    Nurul Fatimah     | M228D4KX2379 |  Machine Learning  |                [LinkedIn](https://www.linkedin.com/in/nurul-fatimah-5b6989225/) |
 |            Rizky Dwi Purnomo             | M006D4KY2510 | Machine Learning |              [LinkedIn](https://www.linkedin.com/in/rizkydwipurnomo/) |
-|    Bintang Ilham Habibie    | C185D4KY1208 | Cloud Computing |    [LinkedIn](https://www.linkedin.com/) |
+|    Bintang Ilham Habibie    | C185D4KY1208 | Cloud Computing |    [LinkedIn](https://www.linkedin.com/in/bintang-ilham-628b68237/) |
 |       Glori Angel Juniati Sitorus       | C121D4KX0387 |  Cloud Computing   | [LinkedIn](https://www.linkedin.com/in/glori-angel-juniati-sitorus/) |
 |         Muhamad Bahri         | A351D4KY4489  | Mobile Development   |        [LinkedIn](https://www.linkedin.com/in/muhamad-bahri-997075229/) |
 |         Fahrul Firgiana         | A351D4KY4483  | Mobile Development   |        [LinkedIn](https://www.linkedin.com/in/fahrulfirgiana/) |
