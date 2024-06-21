@@ -9,17 +9,15 @@ Meet the team that's making Fasimagiland possible - a group of dedicated and ski
 |              Name              | Bangkit-ID |   Learning Path    |                                                       Contact Link                                                       |
 | :----------------------------: | :--------: | :----------------: | :----------------------------------------------------------------------------------------------------------------------: |
 | Bagas Dwi Santosa | M228D4KY2644 |  Machine Learning  |            [LinkedIn](https://www.linkedin.com/in/bagasdwisantosa/) |
-|    Irvandy Ilza Novendra     | M282DSX0043 |  Machine Learning  |                [LinkedIn](https://www.linkedin.com/in/irvandyilzan/) |
-|             Astrid Kalina Nitara             | M151DSY2360 | Machine Learning |              [LinkedIn](https://www.linkedin.com/in/astrid-kalina/) |
-|    Nathanael Chandra Aditya     | C151DSX2783 | Cloud Computing |    [LinkedIn](https://www.linkedin.com/in/nthnlchndr/) |
-|       Natasya Athalia       | C151DSY3410 |  Cloud Computing   | [LinkedIn](https://www.linkedin.com/in/ntsyathl/) |
-|         Dimas Humayun Danu Dahlan         | A346DKX4030 | Mobile Development   |        [LinkedIn](https://www.linkedin.com/in/dimashdanud/) |
-
-# System Architecture
-![image](https://github.com/PondPedia/machine-learning/assets/114053967/754d80ed-992a-496a-9c21-336f50720d63)
+|    Nurul Fatimah     | M228D4KX2379 |  Machine Learning  |                [LinkedIn](https://www.linkedin.com/in/nurul-fatimah-5b6989225/) |
+|            Rizky Dwi Purnomo             | M006D4KY2510 | Machine Learning |              [LinkedIn](https://www.linkedin.com/in/rizkydwipurnomo/) |
+|    Bintang Ilham Habibie    | C185D4KY1208 | Cloud Computing |    [LinkedIn](https://www.linkedin.com/) |
+|       Glori Angel Juniati Sitorus       | C121D4KX0387 |  Cloud Computing   | [LinkedIn](https://www.linkedin.com/in/glori-angel-juniati-sitorus/) |
+|         Muhamad Bahri         | A351D4KY4489  | Mobile Development   |        [LinkedIn](https://www.linkedin.com/in/muhamad-bahri-997075229/) |
+|         Fahrul Firgiana         | A351D4KY4483  | Mobile Development   |        [LinkedIn](https://www.linkedin.com/in/fahrulfirgiana/) |
 
 
-PondPedia provides estimations for harvest times, feeding schedules, and recommendations for fish and feed types based on water and fish conditions. Our mission is to empower Indonesian aquaculturists with the knowledge and resources they need for a more sustainable and prosperous future.
+Fasimagiland is an innovative application that seamlessly blends storytelling and sketching, specifically designed for children aged 5 to 10. This thoughtfully crafted app aims to nurture cognitive development and creativity among early learners in Indonesia, while addressing the prevalent challenges faced by Indonesian children in acquiring reading skills.
 
-- Pitch Presentation: https://lnkd.in/ey-dvEcC
-- UI/UX Design: https://www.figma.com/team_invite/redeem/65VLrxrsOrJCY6Hsj6522H
+- Pitch Presentation:[Presentation](https://www.canva.com/design/DAGIT4j-zTE/ObsfeYdhkDJsn_A9TrpRQg/edit?utm_content=DAGIT4j-zTE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- UI/UX Design: [https://www.figma.com/team_invite/redeem/65VLrxrsOrJCY6Hsj6522H](https://www.figma.com/design/GUIfk10CjpLnfAUfPPxCoa/UI-FasimagiLand?node-id=0-1&t=RVD9Rpifq7k3f9yJ-1)
